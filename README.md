@@ -1,4 +1,4 @@
-[!Header](https://github.com/giraffesava/giraffesava/blob/main/assets/Header.png)
+![Header](https://github.com/giraffesava/giraffesava/blob/main/assets/Header.png)
 ## More information:
 - I am looking for a job as **junior frontend developer**
 - I’m currently working on my own project called **online-store** (i've pinned it down below)
