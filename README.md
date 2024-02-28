@@ -2,5 +2,4 @@ Honestly i'm just trying new technologies here and don't write any big projects 
 
 ## More information:
 - Work as a **frontend developer**
-- How to reach me: savely54@mail.ru / Telegram: @sava154
 
